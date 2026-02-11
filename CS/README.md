@@ -3,3 +3,4 @@
 ## 목차
 
 - [cache-control](./cache-control.md)
+- [cors](./cors.md)
